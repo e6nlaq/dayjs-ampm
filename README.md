@@ -30,4 +30,4 @@ bun add dayjs-ampm
 
 ## Example
 
-See [`example`](https://github.com/e6nlaq-dayjs-ampm)
+See [`example`](https://github.com/e6nlaq/dayjs-ampm/tree/main/example)
