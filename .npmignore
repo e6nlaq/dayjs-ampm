@@ -1,0 +1,6 @@
+example/**
+.gitignore
+bun.lockb
+*.ts
+!*.d.ts
+tsconfig.json

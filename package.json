@@ -1,0 +1,30 @@
+{
+  "name": "dayjs-ampm",
+  "description": "dayjs AM/PM plugin",
+  "version": "1.0.0",
+  "keywords": [
+    "dayjs",
+    "plugin",
+    "AM",
+    "PM",
+    "dayjs-plugin",
+    "time"
+  ],
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e6nlaq/dayjs-ampm.git"
+  },
+  "scripts": {
+    "prepublishOnly": "tsc"
+  }
+}
